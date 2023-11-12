@@ -6,11 +6,11 @@ I'm interested in  Nonlinear Dynamics, Computational Dynamics and System Identif
 # Skills
 Here are some of the programming languages and tools I'm proficient in:
 - Python
-- C
 - Julia
 - MATLAB
 - Mathematica
 - C
+- C++
 - bash
 
 # Let's connect!
