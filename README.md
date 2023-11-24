@@ -1,3 +1,5 @@
+[![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/wanikhawar/)
+
 # Hi there! 👋
 
 I am a PhD Scholar in the Department of Mechanical Engineering at Indian Institute of Technology Madras with a passion for Physics, Mathematics and Programming. 
